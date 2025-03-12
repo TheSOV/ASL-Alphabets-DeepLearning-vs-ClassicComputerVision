@@ -1,10 +1,7 @@
 # Real-time-detection-of-ASL-Alphabets
 ### Project Description:
 
-Make a comparation of the performance of Classical Computer Vision vs Deep Learning in signs recognition.
-### Objective:
-
-In this project, a deep learning model is built to alleviate the above problem a bit. Deep learning and convolutional neural networks is used to build a model that can recognize the American Sign Language alphabets with decent enough accuracy.
+Comparation of the performance of Classical Computer Vision vs Deep Learning in signs recognition.
 
 ### Dataset:
 
