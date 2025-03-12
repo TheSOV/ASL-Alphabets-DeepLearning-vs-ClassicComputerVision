@@ -17,7 +17,7 @@ import torch.nn.functional as F
 import joblib
 # load the binarized labels
 print('Loading label binarizer...')
-lb = joblib.load('C:\\Users\\prathibha k s\\ASL\\output\\lb.pkl')
+lb = joblib.load('ASL\output\lb.pkl')
 
 
 # ### creating neural network model
